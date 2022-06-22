@@ -14,11 +14,8 @@
    <img align="center" alt="Hugo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Hugo-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg">
-   <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
    <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
    <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-   <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-   <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   
 
   ##
