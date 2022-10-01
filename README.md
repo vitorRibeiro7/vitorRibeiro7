@@ -1,34 +1,55 @@
-### Fala Devs! 👋
-<div align="center">
-  <a href="https://github.com/vitorRibeiro7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorRibeiro7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRibeiro7&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-    <img align="center" alt="Hugo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Hugo-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-   <img align="center" alt="Hugo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Hugo-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg">
-   <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
-   <img align="center" alt="Hugo-DiscordJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  
+## Hello there! 👋🏽
 
-  ##
-  </div>
-  
-<div> 
+<div>
+<a href="https://ibb.co/4SMnQJq"><img height="300px" src="https://i.ibb.co/QHn35Xg/Innovation-amico.png" alt="" border="0" align="right"></a>
+
+### ☂️ About me:
+
+<p align="left">
+I am a graduate student in Computer Science at the Federal Technological University of Paraná, Software Developer and Technology Enthusiast. I am currently part of the <a href="https://www.haken.com.br/" target="_blank">Haken</a> project, a junior computer science company, holding the position of front-end developer.</p>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+#
+<br>
+<br>
+<br>
+<br>
+
+Back-end Dev: 
+<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' alt="NodeJS">
+
+Front-end Dev: 
+<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="ReactJS">
+<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt="Tailwind CSS">
+
+Langs:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20"/>
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorRibeiro7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRibeiro7&layout=compact&langs_count=7&theme=dark"/>
+</a>
+
+
+<a href="https://github.com/vitorRibeiro7">
+
   <a href="https://www.youtube.com/channel/UC4Z_x4OrnjZ-G3INqrq-YWA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_vitorhugomr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/hugostrix" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/aKrWbaH8by" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "*"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitorhugomrtecno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/vitorhugomrtecno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+ <br>
+ <br>
+
   ![Snake animation](https://github.com/vitorRibeiro7/vitorRibeiro7/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
