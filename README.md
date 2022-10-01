@@ -6,7 +6,7 @@
 ### ☂️ About me:
 
 <p align="left">
-I am a graduate student in Computer Science at the Federal Technological University of Paraná, Software Developer and Technology Enthusiast. I am currently part of the <a href="https://www.haken.com.br/" target="_blank">Haken</a> project, a junior computer science company, holding the position of front-end developer.</p>
+I am a graduate student in Computer Science at the Federal Technological University of Paraná, Software Developer and Technology Enthusiast. I am currently part of the <a href="https://www.haken.com.br/" target="_blank">Haken</a>, a junior computer science company, holding the position of front-end developer.</p>
 </div>
 
 <br>
