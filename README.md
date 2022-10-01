@@ -15,23 +15,6 @@ I am a graduate student in Computer Science at the Federal Technological Univers
 <br>
 
 #
-<br>
-<br>
-<br>
-<br>
-
-Back-end Dev: 
-<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' alt="NodeJS">
-
-Front-end Dev: 
-<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="ReactJS">
-<img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg' alt="Tailwind CSS">
-
-Langs:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20"/>
-
-<br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorRibeiro7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRibeiro7&layout=compact&langs_count=7&theme=dark"/>
