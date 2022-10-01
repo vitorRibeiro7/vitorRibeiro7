@@ -21,9 +21,6 @@ I am a graduate student in Computer Science at the Federal Technological Univers
 
 #
 
-<br>
-<br>
-
 ![Snake animation](https://github.com/vitorRibeiro7/vitorRibeiro7/blob/output/github-contribution-grid-snake.svg)
  
 
