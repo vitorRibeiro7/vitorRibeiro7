@@ -24,8 +24,8 @@ I am a graduate student in Computer Science at the Federal Technological Univers
 <br>
 <br>
 
-<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=vitorRibeiro7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRibeiro7&layout=compact&langs_count=7&theme=dark"/>
+<img height="190px" align="left" src="https://github-readme-stats.vercel.app/api?username=vitorRibeiro7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="190px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRibeiro7&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
  <br>
