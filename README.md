@@ -20,7 +20,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorribeiro7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&&border_color=5a1d98&text_color=fff&title_color=fff&icon_color=5a1d98"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorribeiro7&layout=compact&langs_count=8&theme=github_dark&border_color=5a1d98&text_color=fff&title_color=fff&icon_color=5a1d98"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorribeiro7&layout=compact&langs_count=8&theme=github_dark&border_color=5a1d98&text_color=fff&title_color=fff&icon_color=5a1d98&&hide=css,"/>
 </p>
 <br>
 
