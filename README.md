@@ -15,7 +15,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align='center'><img src="https://streak-stats.demolab.com?user=vitorRibeiro7&date_format=j%20M%5B%20Y%5D&border=5A1D98&ring=D8D9DA&fire=D8D9DA&stroke=D8D9DA&background=0D1117&currStreakNum=D8D9DA&sideNums=5A1D98&currStreakLabel=5A1D98&sideLabels=D8D9DA&dates=D8D9DA"/></p>
