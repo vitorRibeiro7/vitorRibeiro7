@@ -6,7 +6,7 @@
 ### ☂️ About me:
 
 <p align="left"> [EN] I'm graduating in Computer Science at Universidade Tecnológica Federal do Paraná, Software Developer and Technology Enthusiast. I am currently part of <a href="https://www.haken.com.br/" target="_blank">Haken</a>, a junior computer science company, occupying the position of projects director.</p>
-<p align="left"> [PT-BR] Sou graduando em Ciência da Computação pela Universidade Tecnológica Federal do Paraná, Desenvolvedor de Software e Entusiasta de Tecnologia. Atualmente faço parte da <a href="https://www.haken.com.br/" target="_blank">Haken</a>, uma empresa júnior de informática, ocupando o cargo de diretor de projetos.
+<p align="left"> [PT-BR] Sou graduando em Ciência da Computação pela Universidade Tecnológica Federal do Paraná, Desenvolvedor de Software e Entusiasta de Tecnologia. Atualmente faço parte da <a href="https://www.haken.com.br/" target="_blank">Haken</a>, uma empresa júnior de ciência da computação, ocupando o cargo de diretor de projetos.
 </div>
 
 <br>
