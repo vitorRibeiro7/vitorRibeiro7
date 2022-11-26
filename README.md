@@ -27,7 +27,7 @@
 
 
 ### 👔 Contact me!
-<a href="https://www.youtube.com/channel/UC4Z_x4OrnjZ-G3INqrq-YWA" target="_blank"><img src="https://img.shields.io/badge/YouTube-1b98ff?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCDutC5d06RbIZH5FyGNcF7A" target="_blank"><img src="https://img.shields.io/badge/YouTube-1b98ff?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_vitorhugomr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-1b98ff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vitorhugomrtecno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1b98ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
