@@ -22,16 +22,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorribeiro7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&&border_color=1b98ff&text_color=fff&title_color=fff&icon_color=1b98ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorribeiro7&layout=compact&langs_count=8&theme=github_dark&border_color=1b98ff&text_color=fff&title_color=fff&icon_color=1b98ff&&hide=css,c"/>
 </p>
-<br>
-
-
-
-
-<br>
-<br>
-
-#
-
-![Snake animation](https://github.com/vitorRibeiro7/vitorRibeiro7/blob/output/github-contribution-grid-snake.svg)
  
 
