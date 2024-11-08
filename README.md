@@ -6,7 +6,7 @@
 
 ### 📘 About me:
 
-<p align="left"> Sup! My name is Vitor Ribeiro, a passionate developer with 2 years of experience in web development. I am a Computer Science student and have skills in languages such as Typescript, Python, Lua, and GoLang. In addition to working as a developer, I am also part of a computer science junior company <a href="https://www.haken.com.br/" target="_blank">[Haken]</a>, where I serve as a project director, managing cutting-edge projects and teams. I am an active participant in Discord communities and also enjoy attending in-person events to share knowledge and stay up-to-date with the latest trends. I have had the opportunity to teach web development workshops, demonstrating how to build complete backend applications. My goal is to continue growing as a developer, contribute to innovative projects, and share knowledge with the community.</p>
+<p align="left"> Sup! My name is Vitor Ribeiro, a passionate developer with 4 years of experience in development. I am a Computer Science student and have skills in languages such as Typescript, Python and Lua. In addition to working as a developer, i was also part of a computer science junior company <a href="https://www.haken.com.br/" target="_blank">[Haken]</a>, where i was served as a project director, managing cutting-edge projects and teams. I am an active participant in Discord communities and also enjoy attending in-person events to share knowledge and stay up-to-date with the latest trends. I have had the opportunity to teach web development workshops, demonstrating how to build complete backend applications. My goal is to continue growing as a developer, contribute to innovative projects, and share knowledge with the community.</p>
   
 </div>
 
